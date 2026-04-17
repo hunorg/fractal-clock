@@ -1,3 +1,3 @@
-# FractalClock
+# fractal-clock
 
 
